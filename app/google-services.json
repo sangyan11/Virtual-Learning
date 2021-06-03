@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "260104301710",
+    "project_id": "online-learning-ea8c0",
+    "storage_bucket": "online-learning-ea8c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260104301710:android:55eed7ef14d291f3b22ddf",
+        "android_client_info": {
+          "package_name": "com.sangyan.onlinelearning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260104301710-6u3m2gv5p05oejdshm12h7002mkcl3af.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4fp4PtoMDlMUAUACfsVJjpSnbjJURA2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260104301710-6u3m2gv5p05oejdshm12h7002mkcl3af.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
